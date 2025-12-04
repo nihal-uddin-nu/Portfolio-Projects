@@ -39,12 +39,8 @@ Output (approximate):
 
 Running the Notebook
 
-1.  Install dependencies:
-
-    pip install nltk
-    python -m nltk.downloader cmudict brown reuters stopwords punkt averaged_perceptron_tagger averaged_perceptron_tagger_eng
-
-2.  Open the notebook in Jupyter Lab or Jupyter Notebook.
+1.  Download sentence-predictor.ipynb and go to Google Colabs (colab.research.google.com)
+2.  Upload the file to Google Colab.
 3.  Run all cells sequentially.
 
 Configuration
