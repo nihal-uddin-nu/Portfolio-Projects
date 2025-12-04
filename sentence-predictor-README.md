@@ -3,6 +3,7 @@ Probabilistic Word Prediction & Phonetic Spell Checker (Jupyter Notebook)
 This notebook implements a combined N-gram language model and phonetic
 spell checker using NLTK. It corrects words in an input sentence and
 then predicts the most likely next word based on 1–4 gram statistics.
+This prediction model loops until the next suggested word is a noun.
 
 Features
 
