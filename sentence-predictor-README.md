@@ -43,7 +43,7 @@ Running the Notebook
 
 1.  Download sentence-predictor.ipynb and go to Google Colabs (colab.research.google.com)
 2.  Upload the file to Google Colab.
-3.  Run all cells sequentially.
+3.  Run all cells sequentially. After running the last cell, you will have to type in the input sentence.
 
 Configuration
 
